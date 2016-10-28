@@ -47,7 +47,7 @@ The Main Activity should:
 
     * **employees working at macys** - the button that will return the full names of employees working at Macys
     * **companies in Boston** - the button that will return companies located in Boston
-    * **company with the highest salary** - the button that will return the employee name with the highest salary
+    * **employee with the highest salary** - the button that will return the employee name with the highest salary
 
 
 **Bonus:** Use SQLiteQueryBuilder to form your joins
